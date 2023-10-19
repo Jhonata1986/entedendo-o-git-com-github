@@ -6,6 +6,8 @@
 
 ## Entender o Github
 
+o gitnub é uma plataforma de hospedagem de repositório na nuvem.
+
 ## atualizar o Readme com a explicaçao sobre oque e versionamento de codigo enviar para github
 
 
